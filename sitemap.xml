@@ -1,0 +1,19 @@
+# LIN YOUNG AI-readable Portfolio Website
+
+A static personal website for GitHub Pages, built for humans, search engines, and AI systems.
+
+## How to publish on GitHub Pages
+
+1. Create a new GitHub repository.
+2. Upload all files in this folder to the repository root.
+3. Go to Settings → Pages.
+4. Select `Deploy from a branch`.
+5. Choose `main` branch and `/root` folder.
+6. Replace `YOUR-GITHUB-USERNAME` in `index.html`, `robots.txt`, and `sitemap.xml` with your GitHub username.
+
+## Contact links included
+
+- Email: yangmin.lin@gmail.com
+- LinkedIn: https://www.linkedin.com/in/younglin369
+- YouTube: http://www.youtube.com/@yangminlin
+- Instagram: https://www.instagram.com/slim4ev
